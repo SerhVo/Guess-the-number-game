@@ -1,4 +1,4 @@
-#Guess the Number Game
+Guess the Number Game
 
 This is a simple interactive web game where users try to guess a randomly generated number between 1 and 20. The game provides feedback on whether the guessed number is too high or too low and tracks the score.
 
