@@ -1,3 +1,8 @@
+
+![image](https://github.com/user-attachments/assets/2de95a8f-00be-4259-9770-9d3ddd05aabb)
+
+
+
 Guess the Number Game
 
 This is a simple interactive web game where users try to guess a randomly generated number between 1 and 20. The game provides feedback on whether the guessed number is too high or too low and tracks the score.
